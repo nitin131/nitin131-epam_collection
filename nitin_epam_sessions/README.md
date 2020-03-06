@@ -1,3 +1,3 @@
-# Nizam-Mohammed-Epam_PEP-Collections_in_Java-Session_6
+# nitin131-epam_collection
 
-[Goto Java files](https://github.com/nizam19/Nizam-Mohammed-Epam_PEP-Collections_in_Java-Session_6/tree/master/collections/src/main/java/com/epam/collections)
+[Goto Java files](https://github.com/nitin131/nitin131-epam_collection/tree/master/collections/src/main/java/com/epam/collections)
